@@ -1,0 +1,1 @@
+když neprojde push tøeba pro prilis velky soubor. vrati o jeden push zpìt: git reset HEAD~1
