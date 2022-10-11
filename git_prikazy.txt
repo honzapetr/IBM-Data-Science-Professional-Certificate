@@ -1,4 +1,0 @@
-když neprojde push tøeba pro prilis velky soubor. vrati o jeden push zpìt: git reset HEAD~1
-
-token 8.8.2022: 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
-token 5.10.2022: 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
